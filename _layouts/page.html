@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div style="">
+  <img src="{{page.hero}}" style="width: 100%; height: 70vh; object-fit: cover; filter: brightness(70%);">
+  <div class="image-2">
+    <div class="container" style="position: absolute;  top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
+      <div class="main-hero d-flex justify-content-center align-items-center">
+        <div class="col-md-10">
+          <h1 style="padding-bottom: 16px;" >{{page.title}}</h1>
+          <h3 style="padding-bottom: 16px;">{{page.subhead}}</h3>
+          <a href="{{page.cta-link}}" target="_blank"><button class="btn btn-success btn-lg" type="button">{{page.cta}}</button></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="p1-body reportStyle">
+	<div class="container">
+        <div class="row justify-content-center">
+          	<div class="col-md-8 reportStyle">
+            	{{ content }}
+          	</div>
+          </div>
+        </div>
+      </div>
+    </div>
+   
+</div>

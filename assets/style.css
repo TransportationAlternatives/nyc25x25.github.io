@@ -1,0 +1,168 @@
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Montserrat', system-ui, sans-serif;
+}
+
+.nav-link {
+	text-transform: uppercase;
+	font-family: 'Montserrat', system-ui, sans-serif;
+	color: black !important;
+	font-weight: 600;
+}
+
+.nav-link-border:hover {
+	text-transform: uppercase;
+	font-family: 'Montserrat', system-ui, sans-serif;
+	color: #f15d22 !important;
+	font-weight: 600;
+	border-bottom: solid 4px #f15d22;
+}
+
+.active-link {
+	text-transform: uppercase;
+	font-family: 'Montserrat', system-ui, sans-serif;
+	color: #f15d22 !important;
+	font-weight: 600;
+	border-bottom: solid 4px #f15d22;
+}
+
+.header-btn {
+	text-transform: uppercase;
+	font-family: 'Montserrat', system-ui, sans-serif;
+	color: white !important;
+	font-weight: 600;
+}
+
+.bg-light {
+	background-color: white !important;
+}
+
+.header {
+	padding: 5px;
+}
+
+.btn {
+	border-radius: 0 !important;
+	font-family: 'Gotham-Medium', 'Montserrat', sans-serif;
+	font-weight: 500;
+	text-transform: uppercase;
+}
+
+.btn-primary {
+	background-color: #f15d22;
+	border-color: #f15d22;
+}
+
+.btn-primary:hover {
+	background-color: #9D3C15;
+	border-color: #9D3C15;
+}
+
+.btn-success {
+	background-color: #3e6f20;
+	border-color: #3e6f20;
+}
+
+.btn-success:hover {
+	background-color: #345F19;
+	border-color: #345F19;
+}
+
+.btn-outline-primary {
+	border-color: white;
+	color: white;
+	background-color: rgba(255,255,255,0.2);
+}
+
+.btn-outline-primary:hover {
+	border-color: white;
+	background-color: rgba(255,255,255,.6);
+}
+
+.image-2 {
+	background:rgba(0,0,0,0.28);
+}
+
+p.hero {
+	font-family: 'Zilla Slab' !important;
+}
+
+h1 {
+	font-family: 'Montserrat', 'Gotham-Medium',  sans-serif;
+	font-weight: 600;
+}
+
+.main-hero {
+	text-align: center;
+	height: 70vh;
+}
+
+.report-hero {
+	text-align: center;
+}
+
+.p1-body {
+	padding-top: 4em;
+}
+
+.home-h2 {
+	text-align: center;
+	font-family: 'Montserrat', 'Gotham-Medium', 'Montserrat', sans-serif;
+}
+
+.report-h3 {
+	font-size: 1.5em;
+}
+
+p {
+	font-family: 'Montserrat', 'Gotham-Medium', 'Montserrat', sans-serif;
+	font-size: 1.25em;
+}
+
+p strong {
+	font-family: 'Montserrat', 'Gotham-Medium', 'Montserrat', sans-serif;
+}
+
+.body-section {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.footer {
+	margin-top: 4em;
+}
+
+.orange-underline {
+	border-bottom: .2em solid #f15d22;
+}
+
+.photo-caption {
+	font-family: 'Gotham-Medium', system-ui, sans-serif;
+	font-size: 1em;
+	padding-top: .5em;
+	color: #58595b;
+}
+
+.reportStyle h2 {
+	padding-bottom: 1em;
+	font-weight: 600;
+}
+
+.reportStyle img {
+	width: 100%;
+	padding-top: .5em;
+}
+
+img + em {
+	font-family: 'Gotham-Medium', system-ui, sans-serif;
+	font-size: .75em;
+	padding-top: .5em;
+	color: #58595b;
+	font-style: normal;
+}
+
+
+
+
+
+
+
