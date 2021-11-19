@@ -115,7 +115,7 @@ h1 {
 
 p {
 	font-family: 'Montserrat', 'Gotham-Medium', 'Montserrat', sans-serif;
-	font-size: 1.25em;
+	font-size: 1.1em;
 }
 
 p strong {
@@ -143,8 +143,14 @@ p strong {
 }
 
 .reportStyle h2 {
-	padding-bottom: 1em;
+	padding-bottom: .75em;
 	font-weight: 600;
+}
+
+.reportStyle h3 {
+	padding-bottom: .75em;
+	padding-top: .5em;
+	font-size: 1.5em;
 }
 
 .reportStyle img {
@@ -159,10 +165,4 @@ img + em {
 	color: #58595b;
 	font-style: normal;
 }
-
-
-
-
-
-
 
