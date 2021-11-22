@@ -1,7 +1,7 @@
 ---
 layout: reportinner
 title: Who Will Benefit
-hero: /assets/images/home/25.jpg
+hero: https://github.com/jacobdecastro/25x25/blob/main/assets/GIFs/25x25_gif_A_safercrossings_01_notype.gif?raw=true
 permalink: benefit
 
 ---
@@ -93,5 +93,3 @@ The City of New York faces a daunting budgetary crisis. Recovery will require a 
 Faced with the monumental challenges of economic recovery, mounting inequality, increasing traffic violence, climate change, and the potential for more pandemics on the horizon, it is time to make a fundamental shift in what purposes our public space serves, and ensure that the New York City of the future is built for people, not cars.
 
 ![image info](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image48.png?raw=true)
-
-
