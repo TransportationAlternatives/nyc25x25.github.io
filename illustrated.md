@@ -27,6 +27,7 @@ For each location, we share a vision of what the conversion of car space could l
 
 ### FIVE TYPES OF STREETS
 
+<span id="arterial">
 ### Arterial streets
 
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
