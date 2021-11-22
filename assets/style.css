@@ -122,6 +122,11 @@ p strong {
 	font-family: 'Montserrat', 'Gotham-Medium', 'Montserrat', sans-serif;
 }
 
+li {
+	font-family: 'Montserrat', 'Gotham-Medium', 'Montserrat', sans-serif;
+	font-size: 1.1em;
+}
+
 .body-section {
 	padding-top: 2em;
 	padding-bottom: 2em;
@@ -159,10 +164,19 @@ p strong {
 }
 
 img + em {
-	font-family: 'Gotham-Medium', system-ui, sans-serif;
+	font-family: 'Montserrat', 'Gotham-Medium', system-ui, sans-serif;
 	font-size: .75em;
 	padding-top: .5em;
 	color: #58595b;
 	font-style: normal;
+}
+
+a {
+	color: #f15d22;
+}
+
+a:hover {
+	color: #f15d22;
+	text-decoration: none;
 }
 
