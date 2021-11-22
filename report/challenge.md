@@ -2,7 +2,7 @@
 layout: report
 title: The Challenge
 hero: /assets/images/home/25.jpg
-permalink: report
+permalink: 25x25report
 
 ---
 
