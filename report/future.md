@@ -19,8 +19,12 @@ Transportation Alternatives envisions a city where the bus is never stuck in tra
  
 Today, New York City’s streets are unquestionably unfair, giving the majority of space to vehicles that cause daily harm to our city and its residents. The challenge to candidates — converting 25 percent of car space in New York City into space for people by 2025 — is intended to be a bold first step to correct a historic inequality. We need leaders willing to give New York City back to people and ensure that our finite public spaces benefit the many, not the few. The future of New York City depends on it.
 
-<div class="d-flex justify-content-center">
-
+<div class="d-flex justify-content-center" style="padding-top: 1em;">
 <a href="{{ site.baseurl }}/coalition.html"><button class="btn btn-success btn-lg">Join coalition</button></a>
+</div>
 
+<div class="reportbtn d-flex justify-content-between">
+	<a href="{{ site.baseurl }}/implementation.html"><button type="button" class="btn btn-outline-secondary"><i class="bi bi-chevron-left"></i> Implementation</button></a>
+	<a href="#top"><button type="button" class="btn btn-outline-secondary">Back to top</button></a>
+	<a href="{{ site.baseurl }}/methodology.html"><button type="button" class="btn btn-outline-secondary">Methodology <i class="bi bi-chevron-right"></i></button></a>
 </div>

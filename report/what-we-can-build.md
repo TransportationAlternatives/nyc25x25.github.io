@@ -86,3 +86,10 @@ Across New York City, the mistakes of [the Robert Moses era](https://transalt.me
 
 ![image info](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image35.jpg?raw=true)
 *Source: Street Plans*
+
+<div class="reportbtn d-flex justify-content-between">
+	<a href="{{ site.baseurl }}/25x25report.html"><button type="button" class="btn btn-outline-secondary"><i class="bi bi-chevron-left"></i> The Challenge</button></a>
+	<a href="#top"><button type="button" class="btn btn-outline-secondary">Back to top</button></a>
+	<a href="{{ site.baseurl }}/benefit.html"><button type="button" class="btn btn-outline-secondary">Who Will Benefit <i class="bi bi-chevron-right"></i></button></a>
+</div>
+

@@ -97,6 +97,12 @@ Rebalancing streets away from cars and toward people will have an outsized impac
 ![image info](https://raw.githubusercontent.com/jacobdecastro/25x25/main/assets/images/report/image12.jpg)
 *Source: Scott Heins / TA*
 
+<div class="reportbtn d-flex justify-content-between">
+	<a href="{{ site.baseurl }}/evidence.html"><button type="button" class="btn btn-outline-secondary"><i class="bi bi-chevron-left"></i> Evidence</button></a>
+	<a href="#top"><button type="button" class="btn btn-outline-secondary">Back to top</button></a>
+	<a href="{{ site.baseurl }}/future.html"><button type="button" class="btn btn-outline-secondary">Future <i class="bi bi-chevron-right"></i></button></a>
+</div>
+
 
 
 

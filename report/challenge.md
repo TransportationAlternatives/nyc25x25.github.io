@@ -94,4 +94,7 @@ Faced with the monumental challenges of economic recovery, mounting inequality, 
 
 ![image info](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image48.png?raw=true)
 
-
+<div class="reportbtn d-flex justify-content-between">
+	<a href="#top"><button type="button" class="btn btn-outline-secondary">Back to top</button></a>
+	<a href="{{ site.baseurl }}/what-we-can-build.html"><button type="button" class="btn btn-outline-secondary">What we can build <i class="bi bi-chevron-right"></i></button></a>
+</div>

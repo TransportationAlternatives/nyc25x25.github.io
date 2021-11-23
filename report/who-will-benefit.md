@@ -37,3 +37,9 @@ New York City’s next leaders have the opportunity to convert car space into sp
 
 ![image info](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image22.jpg?raw=true)
 *Source: Kohn Pedersen Fox / [Urban Design Forum](https://urbandesignforum.org/proposals/unlock-equitable-transit-for-the-autonomous-age/)*
+
+<div class="reportbtn d-flex justify-content-between">
+	<a href="{{ site.baseurl }}/what-we-can-build.html"><button type="button" class="btn btn-outline-secondary"><i class="bi bi-chevron-left"></i> What We Can Build</button></a>
+	<a href="#top"><button type="button" class="btn btn-outline-secondary">Back to top</button></a>
+	<a href="{{ site.baseurl }}/evidence.html"><button type="button" class="btn btn-outline-secondary">Evidence <i class="bi bi-chevron-right"></i></button></a>
+</div>

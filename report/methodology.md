@@ -86,3 +86,9 @@ Information on the sources for data visualization in this report follows.
 
 - “Until the 1950s, [it was illegal for car owners to store their cars on the street](https://www.nytimes.com/1996/03/17/realestate/streetscapes-cars-when-streets-were-vehicles-for-traffic-not-parking.html).”
 - “Meanwhile, [there is only one bike rack for every 116 bikes](https://www.transalt.org/the-power-of-bicycle-parking).”
+
+
+<div class="reportbtn d-flex justify-content-between">
+	<a href="{{ site.baseurl }}/future.html"><button type="button" class="btn btn-outline-secondary"><i class="bi bi-chevron-left"></i> Our future</button></a>
+	<a href="#top"><button type="button" class="btn btn-outline-secondary">Back to top</button></a>
+</div>
