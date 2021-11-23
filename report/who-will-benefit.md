@@ -2,7 +2,7 @@
 layout: reportinner
 title: Who Will Benefit
 subhead: In a finite city, a vision for more space for people
-hero: https://github.com/jacobdecastro/25x25/blob/main/assets/GIFs/25x25_gif_A_safercrossings_01_notype.gif?raw=true
+hero: https://github.com/jacobdecastro/25x25/blob/main/assets/GIFs/25x25_gif_E_sidewalk_01_notype.gif?raw=true
 permalink: benefit
 
 ---
