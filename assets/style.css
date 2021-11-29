@@ -92,13 +92,9 @@ h1,h2,h3,h4,h5,h6 {
 	background:rgba(0,0,0,0.28);
 }
 
-p.hero {
-	font-family: 'Zilla Slab' !important;
-}
-
 h1 {
 	font-family: 'Montserrat', 'Gotham-Medium',  sans-serif;
-	font-weight: 600;
+	font-weight: 700;
 }
 
 .main-hero {
@@ -128,17 +124,19 @@ h3 {
 }
 
 p {
-	font-family: 'Montserrat', 'Gotham-Medium', 'Montserrat', sans-serif;
-	font-size: 1.1em;
+	font-family: Georgia, 'Montserrat', 'Gotham-Medium', 'Montserrat', sans-serif;
+	font-size: 1.2em;
 }
 
 p strong {
-	font-family: 'Montserrat', 'Gotham-Medium', 'Montserrat', sans-serif;
+	font-family: Georgia, 'Montserrat', 'Gotham-Medium', 'Montserrat', sans-serif;
 }
 
 li {
-	font-family: 'Montserrat', 'Gotham-Medium', 'Montserrat', sans-serif;
-	font-size: 1.1em;
+	font-family: Georgia, 'Montserrat', 'Gotham-Medium', 'Montserrat', sans-serif;
+	font-size: 1.2em;
+	padding-top: .6em;
+	padding-bottom: .4em;
 }
 
 .body-section {
