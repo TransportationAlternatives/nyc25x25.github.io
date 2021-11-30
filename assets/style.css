@@ -126,6 +126,7 @@ h3 {
 p {
 	font-family: Georgia, 'Montserrat', 'Gotham-Medium', 'Montserrat', sans-serif;
 	font-size: 1.2em;
+	line-height: 1.6em;
 }
 
 p strong {
@@ -135,6 +136,7 @@ p strong {
 li {
 	font-family: Georgia, 'Montserrat', 'Gotham-Medium', 'Montserrat', sans-serif;
 	font-size: 1.2em;
+	line-height: 1.6em;
 	padding-top: .6em;
 	padding-bottom: .4em;
 }
@@ -194,4 +196,12 @@ a:hover {
 
 .reportbtn {
 	padding-top: 3em;
+}
+
+.card {
+	border-radius: 0;
+}
+
+img:not([src]) {
+   visibility: hidden;
 }
