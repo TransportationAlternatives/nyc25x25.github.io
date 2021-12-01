@@ -10,7 +10,7 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'This is Atlantic Avenue, Brooklyn',
+            title: 'This is 125th Street, Manhattan',
             description: 'Atlantic Avenue in Brooklyn is the site of high levels of traffic violence, a problem which is especially bad at high traffic intersections such as Flatbush Avenue, Fort Greene Place, and 4th Avenue. These five-to-six-lane dangerous streets are bordered by narrow sidewalks, and lack any protected bike infrastructure either on the streets or nearby. ',
             location: {
                 center: { lon: -73.97253, lat: 40.68255 },
