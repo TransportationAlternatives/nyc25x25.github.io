@@ -12,6 +12,10 @@ h1,h2,h3,h4,h5,h6 {
 	font-family: 'Montserrat', system-ui, sans-serif;
 }
 
+p.nyc-map-label {
+	font-family: 'Montserrat', system-ui, sans-serif;
+}
+
 .nav-link {
 	text-transform: uppercase;
 	font-family: 'Montserrat', system-ui, sans-serif;
@@ -24,7 +28,7 @@ h1,h2,h3,h4,h5,h6 {
 	font-family: 'Montserrat', system-ui, sans-serif;
 	color: #f15d22 !important;
 	font-weight: 600;
-	border-bottom: solid 4px #f15d22;
+	border-bottom: solid 2.5px #f15d22;
 }
 
 .active-link {
@@ -204,4 +208,19 @@ a:hover {
 
 img:not([src]) {
    visibility: hidden;
+}
+
+.imgbreak {
+	padding-top: 1.5em;
+	padding-bottom: 3em;
+}
+
+.secondaryNav {
+	font-weight: 500;
+	font-size: .85em;
+}
+
+.secondaryNav:hover {
+	font-weight: 500;
+	font-size: .85em;
 }
