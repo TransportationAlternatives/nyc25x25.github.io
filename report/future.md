@@ -24,7 +24,7 @@ Today, New York City’s streets are unquestionably unfair, giving the majority 
 </div>
 
 <div class="reportbtn d-flex justify-content-between">
-	<a href="{{ site.baseurl }}/implementation.html"><button type="button" class="btn btn-outline-secondary"><i class="bi bi-chevron-left"></i> Implementation</button></a>
-	<a href="#top"><button type="button" class="btn btn-outline-secondary">Back to top</button></a>
-	<a href="{{ site.baseurl }}/methodology.html"><button type="button" class="btn btn-outline-secondary">Methodology <i class="bi bi-chevron-right"></i></button></a>
+	<a href="{{ site.baseurl }}/implementation.html" target="_self"><button type="button" class="btn btn-outline-secondary"><i class="bi bi-chevron-left"></i> Implementation</button></a>
+	<a href="#top" target="_self"><button type="button" class="btn btn-outline-secondary">Back to top</button></a>
+	<a href="{{ site.baseurl }}/methodology.html" target="_self"><button type="button" class="btn btn-outline-secondary">Methodology <i class="bi bi-chevron-right"></i></button></a>
 </div>

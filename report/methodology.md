@@ -89,6 +89,6 @@ Information on the sources for data visualization in this report follows.
 
 
 <div class="reportbtn d-flex justify-content-between">
-	<a href="{{ site.baseurl }}/future.html"><button type="button" class="btn btn-outline-secondary"><i class="bi bi-chevron-left"></i> Our future</button></a>
-	<a href="#top"><button type="button" class="btn btn-outline-secondary">Back to top</button></a>
+	<a href="{{ site.baseurl }}/future.html" target="_self"><button type="button" class="btn btn-outline-secondary"><i class="bi bi-chevron-left"></i> Our future</button></a>
+	<a href="#top" target="_self"><button type="button" class="btn btn-outline-secondary">Back to top</button></a>
 </div>
