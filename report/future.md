@@ -11,7 +11,7 @@ permalink: future
 
 For over a century, New Yorkers have been forced to accept a “normal” on our streets that is anything but. It should not be normal for people to fear death and serious injury when crossing the street, for sidewalks to be covered in mountains of garbage, for so many to breath air poisoned by pollution, for children to lack space to play, for jobs and opportunity to be rendered inaccessible, especially for low-income communities and communities of color, or for a whole city to be crippled by congestion. It should not be normal for a city to give away its most valuable asset — open public space — to a minority of residents, largely for free.
 
-![image info](https://raw.githubusercontent.com/jacobdecastro/25x25/main/assets/images/report/image01.jpg)
+![Graphic text reading, "In a moment of overlapping crises, the queestion that New York city's future leaders must ask is not whether we can be bold enough to shift course, but whether we can afford not to."](https://raw.githubusercontent.com/jacobdecastro/25x25/main/assets/images/report/image01.jpg)
 
 New York City’s next generation of leaders must take up the challenge of delivering to New Yorkers a new, better normal by giving our city back to people. This is the only possible future for New York City. If our next leaders take up this challenge, they will accomplish so much: boost the economy, meet our climate goals, increase quality of life and life expectancy for all New Yorkers. 
 

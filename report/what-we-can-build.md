@@ -11,13 +11,13 @@ One hundred years ago, New York City streets underwent a paradigm shift. At the 
 
 Cars and people briefly competed for streets. [Cars won](https://www.vox.com/2015/1/15/7551873/jaywalking-history), and our city has suffered every day since. Countless small businesses were closed or [relegated indoors](https://www.tenement.org/blog/outdoor-voices-the-long-history-of-the-essex-street-market/), children were taught to stay out of the street, above-ground transit lines were dismantled, sidewalks were narrowed so streets could be widened, highways destroyed neighborhoods, car owners were saddled with crippling debt, traffic injuries and fatalities became everyday tragedies, and poor, immigrant, and Black communities bore the brunt of these changes. Car traffic took over the majority of New York City’s public space.
 
-![image info](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image44.jpg?raw=true)
+![Graphic text reading, " Cars and people briefly competed for streets. Cars won and our city has suffered every day since."](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image44.jpg?raw=true)
 
 Today, we reap the consequences of these decisions: a struggling economy, a warming climate, a public transit system in peril, a growing car dependence causing an epidemic of traffic violence, and racial and economic inequity exacerbated by planning and transportation decisions that lock low income communities and communities of color into health crises and generational poverty. 
 
 But just as our planning and transportation decisions led us to this point, so, too, can they lead us to a better future. Solutions can be found in New York City’s largest public asset. It is time to transform our streets to a higher purpose. It’s time to give New York City back to people.
 
-![image info](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image18.jpg?raw=true)
+![Rendering of tree lined street with a swales full of greenery, public seating, space for vendors, protected bike lanes, a Citi Bike doc, children, working cyclists and pedestrians walking safely in an ample cross-walk.](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image18.jpg?raw=true)
 *Source: Street Plans / Lyft*
 
 **A BETTER USE OF 25 PERCENT OF CAR SPACE** 
@@ -39,7 +39,7 @@ The best way to understand the significant amount of space New York City allocat
 - *and* 18,000 square feet **outside of every subway station** for local multimodal travel hubs, with expanded bus shelters, benches, food vendors, public restrooms, and bike parking;
 - *and* 780,000 spaces for car-share parking and paid parking spaces (converted from free parking) with the potential to generate, by the most conservative estimate, at least $1 billion annually.
 
-![image info](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image17.jpg?raw=true)
+![Text graphic highlighting better uses for 25 percent of car space.](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image17.jpg?raw=true)
 
 These improvements could be located where they have the greatest possible benefit to communities and tailored to the needs of places. For example, although Lower Manhattan and Borough Park, Brooklyn, would both benefit from less car-dominated streets, the type, scale, and siting of streetscape improvements would need to match the need, opportunities, and neighborhood context of each place.
 
@@ -56,22 +56,22 @@ Repurposing car space for better use is not just beneficial for New Yorkers — 
 - 56 percent supported bike share stations
 - 56 percent supported more citywide dedicated bus lanes.
 
-![image info](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image33.gif?raw=true)
+![Rotating text graphic highlighting the aforementoined overwhelming majority support of public amenitites even if they meant less street parking space. ](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image33.gif?raw=true)
 
 A separate [New York City Department of Transportation poll](https://www1.nyc.gov/html/dot/downloads/pdf/2020_cms_covid_october_summary_report.pdf) revealed similarly overwhelming support for street space improvements: 64 percent of residents — not just registered voters — supported reclaiming space for protected bike lanes, and only 13 percent were opposed; 66 percent supported bus lanes, and only 11 percent were opposed; 52 percent supported bike parking and 64 percent supported outdoor dining space, with only 17 percent opposed in either case.
 
-![image info](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image19.jpg?raw=true)
+![Rendering of people populated streets, green choices in transforming car space amidst tall grey city buildings. ](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image19.jpg?raw=true)
 *Source: "Public Square" / [FXCollaborative](http://www.fxcollaborative.com/projects/186/public-square/)*
 
 **THE QUESTION OF CONGESTION**
 Like in a tiny New York City kitchen, in a finite city, an efficient use of space must be a priority. As New York City’s next leaders take up the challenge of a more equitable distribution of streets as public space, efficiency must be goal number one. And if an efficient use of space is the goal, [the car is the worst possible choice](https://nacto.org/publication/transit-street-design-guide/introduction/why/designing-move-people/). A single car lane on an urban street can move, at most, 1,600 people in cars an hour. Mix that car traffic with traffic from trucks and buses, and you can move, at most, 2,800 an hour. A two-way protected bike lane can move 7,500 people an hour and a sidewalk 9,000. A car-free bus lane can move 8,000 people an hour. A busway on a car-free street can move 25,000 people an hour in each direction.
 
-![image info](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image20.gif?raw=true)
+![Moving graphic image highlighting how one car lane can transport 600 to 1,600 people per hour, versus the same space as a two-way bike lane transporting 7,500 cyclists per hour, versus a sidewalk of equal width with 9,000 pedestrians per hour, versus a transitway transporting 10,000-25,000 people per hour. ](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image20.gif?raw=true)
 *Source: [NACTO](https://twitter.com/NACTO/status/1176923819472248833?s=20)*
 
 Despite these known facts, little progress has been made toward spatial efficiency and congestion reduction. The per capita number of cars in New York City has [barely budged since 1970](https://dmv.ny.gov/about-dmv/archives-statistical-summaries). In Manhattan's central business district, [80 percent](https://static1.squarespace.com/static/5cab9d9b65a707a9b36f4b6c/t/602d63923f845d3003292f38/1613587355311/freeparking_traffictrouble.pdf) of those who park on the street park for free and two in five drivers on the street pass through without stopping or parking. The City of New York has [declared congestion levels](https://ny.curbed.com/2019/8/15/20807470/nyc-streets-dot-mobility-report-congestion), which are at their highest rate in decades and rising, as “unsustainable.”
 
-![image info](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image51.jpg?raw=true)
+![Graphic text highlighting how one lane of gridlock could be transformed into a quicker commute, and how the majority -- 66 percent -- of New Yorkers support reallocating street space for dedicated bus lanes.](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image51.jpg?raw=true)
 *[Sources]({{ site.baseurl }}/methodology#sources)*
 
 All this is the result of elected officials’ failure to reduce space for cars. This is known as “induced demand” — a phenomenon where increasing the supply of something further increases the desire for it. Research beginning in the 1960s demonstrated that [building roads and parking increases driving](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/762976/latest-evidence-on-induced-travel-demand-an-evidence-review.pdf), and a recent wave of similar research has found that this effect is substantial — a [one-to-one relationship](https://www.wired.com/2014/06/wuwt-traffic-induced-demand/) where an X increase in car capacity increases driving X percent. The inverse is also true; reductions in space for cars reduces car [ownership](https://findingspress.org/article/18200-the-impact-of-low-traffic-neighbourhoods-and-other-active-travel-interventions-on-vehicle-ownership-findings-from-the-outer-london-mini-holland-programme) and [driving](https://findingspress.org/article/17128-low-traffic-neighbourhoods-car-use-and-active-travel-evidence-from-the-people-and-places-survey-of-outer-london-active-travel-interventions). Even in transit-friendly areas of New York City, researchers found that [parking creates traffic](https://www.bloomberg.com/news/articles/2012-02-27/parking-minimums-promote-driving-even-in-transit-friendly-new-york), while improvements to infrastructure for transit, walking, and biking [all decrease](https://usa.streetsblog.org/2021/02/10/study-yes-more-parking-does-put-more-cars-on-the-road/) driving.
@@ -84,7 +84,7 @@ Clearing the way of car traffic, so New York City’s buses are a viable form of
 
 Across New York City, the mistakes of [the Robert Moses era](https://transalt.medium.com/repeal-robert-moses-fc9318cfefb4) — massive urban highways that induce demand for driving while delivering pollution and raceway speeds to residential neighborhoods — remain standing. These destructive highways — from the Cross-Bronx Expressway to the Brooklyn-Queens Expressway — are more often than not located in low income neighborhoods and [neighborhoods of color](https://transalt.medium.com/repeal-robert-moses-fc9318cfefb4), are not just inherently harmful, but currently crumbling, having reached their natural lifespan and now requiring a wealth of one-off repairs. A more cost effective way forward that is more in line with New York City’s climate and public health goals would be to tear down or repurpose those highways. Cities from [Paris, France to Rochester, New York](https://medium.com/reclaim-magazine/repeal-robert-moses-2b9f454169a7) have begun to tear down highways to better align their streets with the goals of their city, whether those goals are addressing climate change or encouraging economic growth. It is time that New York City stops wasting money on bandaids for aging highways and starts [tearing down our mistakes](https://www.cityandstateny.com/articles/policy/infrastructure/want-to-fix-the-traffic-problem-tear-down-a-freeway.html).
 
-![image info](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image35.jpg?raw=true)
+![Rendering of a transformed Grand Concourse at East 149th street in the Bronx with protected bus lanes in both directions, ample lanes for cars, and two bike lanes in the middle, protected by bioswales.](https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image35.jpg?raw=true)
 *Source: Street Plans*
 
 <div class="reportbtn d-flex justify-content-between">

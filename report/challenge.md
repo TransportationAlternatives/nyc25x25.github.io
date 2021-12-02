@@ -25,7 +25,7 @@ Today, New York City faces a budget shortfall, a crisis of racial injustice, ris
 
 Streets are the single largest public asset in the City of New York — more than 6,300 miles of roadway crisscrossing at more than 39,000 intersections covering more than 120,000 city blocks. The lives of 8.6 million New Yorkers largely play out on the slim sidewalks that edge this massive network — the vast majority of everyday human activity relegated to the margins.
 
-![image info](https://raw.githubusercontent.com/jacobdecastro/25x25/main/assets/images/report/image03.jpg)
+![Graphic with text reading, "Public space "](https://raw.githubusercontent.com/jacobdecastro/25x25/main/assets/images/report/image03.jpg)
 
 Today, though a minority of residents [drive a car to work](https://popfactfinder.planning.nyc.gov/profile/441/economic) and a supermajority walks, takes public transit, or rides a bike, most of New York City’s streets are designed for a car-driving minority. An overwhelming 96 percent of New Yorkers [walk to and from public transit](https://www1.nyc.gov/html/dot/downloads/pdf/mobility-report-singlepage-2019.pdf), but public space devoted to the movement and storage of cars includes some 19,000 lane miles for driving and three million free on-street parking spaces — [more than 1.5 spaces](https://www.transalt.org/the-power-of-bicycle-parking) for every registered vehicle in the city — accounts for more than 75 percent of our shared streetscape. The remaining scraps of space are devoted to car-free bus lanes (0.02 percent), bike lanes (0.93 percent), and sidewalks (24 percent).
 

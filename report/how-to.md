@@ -7,7 +7,7 @@ permalink: implementation
 
 ---
 
-![image info](https://raw.githubusercontent.com/jacobdecastro/25x25/main/assets/images/report/image29.jpg)
+![Rendering of a transformed Union Square, with busways, trees, public seating, and loads of pedestrians.](https://raw.githubusercontent.com/jacobdecastro/25x25/main/assets/images/report/image29.jpg)
 *Source: [Marvel / Union Square Partnership](https://www.wsj.com/articles/new-york-citys-union-square-park-to-grow-under-100-million-plan-11610974800)*
 
 A wholesale transformation of New York City’s public space from car-dominance to a variety of better uses will require a deliberate strategy around management and governance. To date, the work that New York City has done to convert car space into space for people has been largely project based, and most transformations were localized, one-off successes. The challenge for New York City’s next leaders will be how to scale recent successes citywide and holistically manage our public space. This is an admittedly large challenge and one that is necessary for New York’s next leaders to address head-on. But the overwhelming public support across demographics for all kinds of street improvements, and the urgency of our economic, health, traffic violence, equity and climate crises all add up to a broad mandate for change.
@@ -94,7 +94,7 @@ Rebalancing streets away from cars and toward people will have an outsized impac
 - How will you build for commutes that are becoming more local and less oriented around central business districts?
 - What bold actions will you take first? Will you start with the most visible transformation?
 
-![image info](https://raw.githubusercontent.com/jacobdecastro/25x25/main/assets/images/report/image12.jpg)
+![Picture of an Open Street in Chinatown, diners at the Open Restaurants, and pedestrians comfortably walking the street. ](https://raw.githubusercontent.com/jacobdecastro/25x25/main/assets/images/report/image12.jpg)
 *Source: Scott Heins / TA*
 
 <div class="reportbtn d-flex justify-content-between">
