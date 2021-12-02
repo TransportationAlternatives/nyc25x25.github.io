@@ -1,7 +1,7 @@
 ---
 layout: reportinner
 title: Methodology
-hero: https://github.com/jacobdecastro/25x25/blob/main/assets/GIFs/25x25_gif_A_safercrossings_01_notype.gif?raw=true
+hero: https://images.squarespace-cdn.com/content/v1/5cab9d9b65a707a9b36f4b6c/1633441768822-GRR8CPX0MCXRG4AQV1IQ/Young+girl+pushes+young+boy+in+stroller+on+34th+avenue+in+Queens?format=2500w
 permalink: methodology
 
 ---

@@ -2,7 +2,7 @@
 layout: reportinner
 title: Streets for People
 subhead: The only future possible for New York City
-hero: https://github.com/jacobdecastro/25x25/blob/main/assets/GIFs/25x25_gif_A_safercrossings_01_notype.gif?raw=true
+hero: https://raw.githubusercontent.com/jacobdecastro/25x25/main/assets/images/report/image29.jpg
 permalink: future
 
 ---

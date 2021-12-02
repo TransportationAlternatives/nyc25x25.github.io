@@ -2,7 +2,7 @@
 layout: reportinner
 title: How to Give Streets Back to People
 subhead: Implementation considerations for New York City's next leaders
-hero: https://github.com/jacobdecastro/25x25/blob/main/assets/GIFs/25x25_gif_A_safercrossings_01_notype.gif?raw=true
+hero: https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image28.jpg?raw=true
 permalink: implementation
 
 ---

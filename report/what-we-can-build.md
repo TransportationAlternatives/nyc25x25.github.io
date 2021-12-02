@@ -2,7 +2,7 @@
 layout: reportinner
 title: What We Can Build
 subhead: The spatial potential of city streets
-hero: https://github.com/jacobdecastro/25x25/blob/main/assets/GIFs/25x25_gif_A_safercrossings_01_notype.gif?raw=true
+hero: https://github.com/jacobdecastro/25x25/blob/main/assets/images/report/image18.jpg?raw=true
 permalink: what-we-can-build
 
 ---
