@@ -89,7 +89,7 @@ Across New York City, the mistakes of [the Robert Moses era](https://transalt.me
 
 <div class="reportbtn d-flex justify-content-between">
 	<a href="{{ site.baseurl }}/25x25report.html" target="_self"><button type="button" class="btn btn-outline-secondary"><i class="bi bi-chevron-left"></i> The Challenge</button></a>
-	<a href="#top"><button type="button" target="_self" class="btn btn-outline-secondary">Back to top</button></a>
+	<a href="#top" target="_self"><button type="button" target="_self" class="btn btn-outline-secondary">Back to top</button></a>
 	<a href="{{ site.baseurl }}/benefit.html" target="_self"><button type="button" class="btn btn-outline-secondary">Who Will Benefit <i class="bi bi-chevron-right"></i></button></a>
 </div>
 
