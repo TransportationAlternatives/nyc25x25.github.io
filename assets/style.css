@@ -245,3 +245,30 @@ img:not([src]) {
 		margin-left: 2em;
 	}
 }
+
+.light a {
+	color: #f15d22;
+}
+
+.light a:hover {
+	color: #f15d22;
+	text-decoration: none;
+}
+
+.scroll-link a {
+	color: #f15d22;
+}
+
+.scroll-link a:hover {
+	color: #f15d22;
+	text-decoration: none;
+}
+
+h3 a {
+	color: #f15d22;
+}
+
+h3 a:hover {
+	color: #f15d22;
+	text-decoration: none;
+}
