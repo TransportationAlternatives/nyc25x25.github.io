@@ -14,7 +14,7 @@ By converting car space to better use, the City of New York can boost the econom
 
 <span id="economic"></span>
 
-**ECONOMIC BENEFITS**
+### ECONOMIC BENEFITS
 
 The danger and congestion caused by giving over the vast majority of public space to car traffic comes with significant public and private costs: emergency services, property damage, medical care, insurance, travel time, and time lost. At the same time, converting this car space into space for people produces significant economic gains on the citywide, community, and individual levels — and this is true for every possible non-car use of that space. Bike infrastructure benefits small businesses. Bus lanes boost transit budgets. Parks and pedestrian spaces mean more jobs, more tourism, and more money spent where it is needed most. 
 
@@ -48,7 +48,8 @@ The danger and congestion caused by giving over the vast majority of public spac
 
 <span id="environment"></span>
 
-**ENVIRONMENTAL BENEFITS** 
+### ENVIRONMENTAL BENEFITS 
+
 New York City is facing a climate emergency. Between 2017 and 2019, the city’s greenhouse gas output [increased](https://brooklyneagle.com/articles/2020/12/02/nyc-climate-progress-on-ambitious-emissions-goals-backslides-as-strategic-plan-sprawls/#:~:text=Emissions%20from%20natural%20gas%20used,percent%20increase%20compared%20to%202017.&text=Emissions%20from%20passenger%20cars%20%E2%80%94%20now,only%201%20percent%20since%202005.) by almost four percent. Emissions from cars and trucks — the second-largest source of the city’s air pollution — have decreased by only [one percent since 2005](https://onenyc.cityofnewyork.us/wp-content/uploads/2020/11/OneNYC-2020-Progress-Report.pdf). Maximum daily summer temperatures in New York City have been rising by half a degree every decade since 1970, and the sea level has risen more than [a tenth of an inch every year](https://www.nyas.org/annals/special-issue-advancing-tools-and-methods-for-flexible-adaptation-pathways-and-science-policy-integration-new-york-city-panel-on-climate-change-2019-report-vol-1439/) since 1850 — a higher rate than the global average. In New York City, climate change will have the most significant effect on neighborhoods with the lowest incomes and the highest percentages of [Black and Latino residents](https://www.nyas.org/annals/special-issue-advancing-tools-and-methods-for-flexible-adaptation-pathways-and-science-policy-integration-new-york-city-panel-on-climate-change-2019-report-vol-1439/).
 
 Converting 25 percent of car space to better use could be the singular factor that helps New York City reach its climate goals because [cars are a major source](https://onenyc.cityofnewyork.us/wp-content/uploads/2020/11/OneNYC-2020-Progress-Report.pdf) of air pollution in New York City, with one car emitting [4.6 metric tons of carbon dioxide](https://www.epa.gov/greenvehicles/greenhouse-gas-emissions-typical-passenger-vehicle#:~:text=A%20typical%20passenger%20vehicle%20emits,of%20miles%20driven%20per%20year.) annually. Less space for cars will mean less air pollution, a smaller carbon footprint, and more space for alternatives that are significantly less toxic to the environment. Increasing access to protected bike lanes and dedicated bus lanes will reduce the number of people who choose to drive, reducing carbon emissions, heat island effects, and cleaning the air.
@@ -70,7 +71,8 @@ Converting 25 percent of car space to better use could be the singular factor th
 
 <span id="health"></span>
 
-**PUBLIC HEALTH BENEFITS**
+### PUBLIC HEALTH BENEFITS
+
 A city that is less dominated by cars will also have positive impacts on New Yorkers’ physical and mental health. On a systemic level, less space for cars will reduce the [heat island effect](https://www.epa.gov/heatislands#:~:text=Heat%20islands%20are%20urbanized%20areas,as%20forests%20and%20water%20bodies.) and particulate matter in the air, which contribute to hospitalizations for problems like asthma. On an individual level, deprioritizing car space can save lives, especially in New York City’s poorest neighborhoods. Making sure that every New Yorker lives within a five minute walk of open space will lower rates of asthma, preterm birth, heart disease, depression, and other public health challenges, and increase the quality of life and life expectancy for every New Yorker by improving air and water quality and encouraging physical activity. Access to a citywide network of protected bike lanes within a quarter-mile of every New Yorker could make low-impact exercise more accessible and converting on-street car storage into space for on-street trash containers could reduce the stress of navigating sidewalks hemmed in by towering curbside trash piles and interactions with vermin.
 
 ![image info](https://raw.githubusercontent.com/jacobdecastro/25x25/main/assets/images/report/image39.jpg)
