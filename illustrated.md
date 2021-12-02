@@ -17,11 +17,11 @@ Transportation Alternatives and a coalition of more than 190 labor, economic, ed
 
 Transportation Alternatives presents a new vision for our streets - where people, not cars are prioritized. Here we present five types of streets, which together represent the vast majority of streets across New York City, as candidates for immediate transformation, These include:
 
-- [Arterial Streets](#arterial)
-- [Commerce Streets](#commerce)
-- [Residential Streets](#residential)
-- [School Streets](#school)
-- [Transit Streets](#transit)
+- <a href="#arterial" target="_self">Arterial Streets</a>
+- <a href="#commerce" target="_self">Commerce Streets</a>
+- <a href="#residential" target="_self">Residential Streets</a>
+- <a href="#school" target="_self">School Streets</a>
+- <a href="#transit" target="_self">Transit Streets</a>
 
 For each location, we share a vision of what the conversion of car space could look like and what other kinds of uses — from community building to public transit — that street could offer. The renderings share treatments, approaches, and possibilities that are immediately applicable to thousands of similar streets across the city.
 
