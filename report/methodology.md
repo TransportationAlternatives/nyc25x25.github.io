@@ -55,6 +55,7 @@ The equivalence between converting 25 percent of current car space to a certain 
 **Metered Parking Revenue**
 In Fiscal Year 2018, the City of New York [collected $228 million](https://comptroller.nyc.gov/reports/letter-report-on-the-department-of-transportations-administration-of-the-collection-of-cash-revenue-from-parking-meters/) in metered parking revenue. With only [85,000 metered parking spaces](https://comptroller.nyc.gov/reports/letter-report-on-the-department-of-transportations-administration-of-the-collection-of-cash-revenue-from-parking-meters/) — less than three percent of all spaces — each meter averages $2,682.35 annually, or $7.35 a day. By expanding the number of metered parking spaces in commercial corridors by 780,000, and assuming very conservatively that each new meter would only collect 50 percent of current meter averages, the city would collect $1.07 billion annually in new revenue.
 
+<span id="sources"></span>
 ### Sources for Data Visualization
 
 Information on the sources for data visualization in this report follows.

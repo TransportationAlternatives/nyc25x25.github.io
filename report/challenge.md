@@ -1,7 +1,7 @@
 ---
 layout: report
 title: The Challenge
-hero: /assets/images/home/25.jpg
+hero: https://github.com/jacobdecastro/25x25/blob/main/assets/GIFs/ezgif.com-gif-maker-3.gif?raw=true
 permalink: 25x25report
 
 ---
@@ -18,7 +18,7 @@ Today, New York City faces a budget shortfall, a crisis of racial injustice, ris
 
 Today, New York City faces a budget shortfall, a crisis of racial injustice, rising inequality and traffic violence, the loss of millions of jobs and small businesses, and the ongoing threat of climate change. Our recovery can begin, in part, by reimagining our largest public asset — New York City’s 6,300 miles of streets and three million free parking spaces — in support of the needs of all New Yorkers.
 
-![image info](https://raw.githubusercontent.com/jacobdecastro/25x25/main/assets/images/report/image13.jpg)
+![A biker stuck in traffic](https://raw.githubusercontent.com/jacobdecastro/25x25/main/assets/images/report/image13.jpg)
 *Source: Scott Heins / TA*
 
 ### AN INEQUITABLE ALLOCATION
