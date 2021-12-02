@@ -2,7 +2,7 @@
 layout: page
 title: NYC 25x25, Illustrated
 subhead: Five Case Studies of Converting Car Space Into Space for People to Transform New York City
-hero: https://nyc25x25.org/assets/images/image06.gif
+hero: https://github.com/jacobdecastro/25x25/blob/main/assets/images/Central+Park+West_EDITED_2500px_Med.jpg?raw=true
 permalink: illustrated
 
 ---
@@ -174,3 +174,6 @@ Bus routes at this intersection carry 24,638 riders a day. If all these people d
 - [Flatbush Avenue at Nostrand Avenue, Brooklyn](https://www.google.com/maps/@40.6327825,-73.9475349,3a,75y,157.19h,78.94t/data=!3m7!1e1!3m5!1s5rdmIDgvNn5hUrXijIJNFg!2e0!5s20190601T000000!7i16384!8i8192)
 - [42nd Street at Times Square, Manhattan](https://www.google.com/maps/@40.7560037,-73.9868965,3a,75y,355.23h,89.4t/data=!3m6!1e1!3m4!1sEahEYLcwaMJuj6CJCnsFkA!2e0!7i16384!8i8192)
 - [Richmond Terrace at Bay Street, Staten Island](https://www.google.com/maps/place/Bay+St+%26+Richmond+Terrace,+Staten+Island,+NY+10301/@40.6421372,-74.0754359,3a,75y,43.06h,87.28t/data=!3m6!1e1!3m4!1sQXH-DnsFERE7c5OxjbSHTA!2e0!7i13312!8i6656!4m5!3m4!1s0x89c24fd31e9a401b:0x7ba310864cce1cb4!8m2!3d40.6421097!4d-74.0753962)
+
+
+

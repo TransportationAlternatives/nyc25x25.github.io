@@ -2,7 +2,7 @@
 layout: page
 title: Demand more space for all New Yorkers
 subhead: Join 200+ local orgs and of thousands of New Yorkers in demanding more space for all of us.
-hero: https://nyc25x25.org/assets/images/image06.gif
+hero: https://github.com/jacobdecastro/25x25/blob/main/assets/images/20210908TransAltStreets-81_EDITED.jpg?raw=true
 permalink: coalition
 
 ---

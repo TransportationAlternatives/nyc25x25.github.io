@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Frequently Asked Questions
-hero: https://nyc25x25.org/assets/images/image06.gif
+hero: https://github.com/jacobdecastro/25x25/blob/main/assets/images/TransAlt_Fall_2020-98_EDITED.jpg?raw=true
 permalink: faq
 
 ---
