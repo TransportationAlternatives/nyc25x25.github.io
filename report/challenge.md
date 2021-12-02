@@ -6,7 +6,11 @@ permalink: 25x25report
 
 ---
 
+<a href="https://static1.squarespace.com/static/5cab9d9b65a707a9b36f4b6c/t/604943c930774078b5ceab66/1615414229606/NYC+25x25.pdf" target="_blank"><button class="btn btn-success" type="button" style="margin-bottom: 1.5em"><i class="bi bi-file-earmark-arrow-down"></i> Download report as PDF</button>
+
+
 ## **_NYC 25x25_: A CHALLENGE TO NEW YORK CITY’S NEXT LEADERS TO GIVE STREETS BACK TO PEOPLE**
+
 
 Taken together, streets and sidewalks are New York City’s largest publicly owned space. Cars dominate that space. Despite the spatial abundance of 6,300 miles of asphalt and three million free parking spaces, New Yorkers’ everyday lives are relegated to narrow sidewalks and the margins of streets, where we are left to fight over the precious remaining scraps of our public space. 
 
