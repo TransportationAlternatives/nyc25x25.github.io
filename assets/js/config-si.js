@@ -10,13 +10,13 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'This is Midland Field, Staten Island',
-            description: 'Atlantic Avenue in Brooklyn is the site of high levels of traffic violence, a problem which is especially bad at high traffic intersections such as Flatbush Avenue, Fort Greene Place, and 4th Avenue. These five-to-six-lane dangerous streets are bordered by narrow sidewalks, and lack any protected bike infrastructure either on the streets or nearby. ',
+            title: 'Crashes are definitively caused by speeding',
+            description: 'This area has very high crash rates and unsafe conditions for people on foot, especially school-aged children. <a href="https://www.google.com/maps/@40.5755212,-74.0989355,3a,75y,91.4h,82.58t/data=!3m7!1e1!3m5!1sPLCOoSgqKRUvZNkLFV_LVw!2e0!5s20180701T000000!7i16384!8i8192!5m1!1e1" target="_blank">Speed cameras</a> in this area rank 82nd and 83rd out of nearly 1,000 cameras for most violations per month, beating out locations that boast much higher volumes of traffic.',
             location: {
-                center: { lon: -73.97253, lat: 40.68255 },
-                zoom: 16.31,
-                pitch: 38.25,
-                bearing: 0.00
+                center: { lon: -74.10022, lat: 40.57655 },
+                zoom: 16.75,
+                pitch: 0.00,
+                bearing: 37.50
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -39,106 +39,19 @@ var config = {
             id: 'other-identifier',
             alignment: 'right',
             hidden: false,
-            title: 'In the top 20% of most dangerous intersections in the city',
-            description: 'In the last 5 years, there have been 75 reported injuries at the intersection of Flatbush and Atlantic Avenue, with 12 fatal crashes in 2021 alone.',
+            title: 'Transit cannot succeed in a pedestrian-hostile environment',
+            description: 'Hyland Avenue is also a critical bus route connecting Northern Staten Island, the Staten Island Railway, and the Staten Island Ferry. The public transit commuter rate in this area is 44% (high for SI), and one in six households do not own a car. Additionally, transit riders on SI have the longest commutes of any type of commuter in the city, at 75 minutes per trip average.',
             location: {
-                center: { lon: -73.97747, lat: 40.68406 },
-                zoom: 19.19,
-                pitch: 0.00,
-                bearing: 30.00
+                center: { lon: -74.10213, lat: 40.57772 },
+                zoom: 16.75,
+                pitch: 60.00,
+                bearing: 45.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
-        },
-        {
-            id: 'slug-style-id',
-            alignment: 'left',
-            hidden: false,
-            title: 'The majority of residents walk and ride transit',
-            description: 'Atlantic Ave-Barclays Center is one of the busiest subway stations in New York, with 44,000 daily riders, 98% of whom walk to the station — where sidewalks are sometimes only five feet wide. 69% of households within walking distance of Atlantic Avenue do not own a car. ',
-            location: {
-                center: { lon: -73.97490, lat: 40.68304 },
-                zoom: 17.00,
-                pitch: 39.98,
-                bearing: -34.69
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 1,
-                //     duration: 5000
-                // }
-            ],
-            onChapterExit: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 0
-                // }
-            ]
-        },
-        {
-            id: 'slug-style-id',
-            alignment: 'right',
-            hidden: false,
-            title: 'Unsafe design, but a “Vision Zero Priority Area”',
-            description: 'Atlantic Avenue is 117 feet wide. Over 80% of this public space is dedicated to moving or storing vehicles, 18% for pedestrians, 0% for buses, and 0% for cyclists. The avenue’s car and parking lanes stretch 94 feet, which could fit a nine-lane highway.',
-            location: {
-                center: { lon: -73.96928, lat: 40.68215 },
-                zoom: 19.53,
-                pitch: 60.00,
-                bearing: -74.85
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 1,
-                //     duration: 5000
-                // }
-            ],
-            onChapterExit: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 0
-                // }
-            ]
-        },
-        {
-            id: 'slug-style-id',
-            alignment: 'left',
-            hidden: false,
-            title: 'Car-centric infrastructure leads to negative externalities',
-            description: 'Asthma hospitalizations in this area are 2x higher than the citywide average, due to disproportionate exposure to noise, particulate matter, and emissions from engines. The lack of permeable surfaces led to 12+ inches of flooding reported during Hurricane Ida. The community boards that represent this area are rated high on the Climate Change Vulnerability Index, due to high surface temperatures and low tree coverage, street cleanliness, and access to green space',
-            location: {
-                center: { lon: -73.96660, lat: 40.68157 },
-                zoom: 19.53,
-                pitch: 60.00,
-                bearing: -74.85
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 1,
-                //     duration: 5000
-                // }
-            ],
-            onChapterExit: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 0
-                // }
-            ]
         }
     ]
 };

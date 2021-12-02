@@ -10,8 +10,8 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'This is Atlantic Avenue, Brooklyn',
-            description: 'Atlantic Avenue in Brooklyn is the site of high levels of traffic violence, a problem which is especially bad at high traffic intersections such as Flatbush Avenue, Fort Greene Place, and 4th Avenue. These five-to-six-lane dangerous streets are bordered by narrow sidewalks, and lack any protected bike infrastructure either on the streets or nearby. ',
+            title: '12 fatal crashes in 2021 alone',
+            description: 'In the last 5 years, there have also been 75 reported injuries at Flatbush and Atlantic Avenue, ranking this site as one of the top 20% of most dangerous intersections in the city.<br><br><em>&ldquo;Terrifying. I ride on the sidewalk if absolutely necessary. I avoid walking along here because it is so unpleasant as well. Atlantic is terrible.&rdquo; -Em<br><br>&ldquo;I avoid Atlantic at all costs. Feels the most dangerous on the northside as a pedestrian I feel like, because cars speed so fast on Atlantic and these streets are angled so they do not slow down when turning right.&rdquo; -Anonymous</em>',
             location: {
                 center: { lon: -73.97253, lat: 40.68255 },
                 zoom: 16.31,
@@ -39,13 +39,13 @@ var config = {
             id: 'other-identifier',
             alignment: 'right',
             hidden: false,
-            title: 'In the top 20% of most dangerous intersections in the city',
-            description: 'In the last 5 years, there have been 75 reported injuries at the intersection of Flatbush and Atlantic Avenue, with 12 fatal crashes in 2021 alone.',
+            title: '69% of households within walking distance of Atlantic Avenue do not own a car',
+            description: 'Atlantic Ave-Barclays Center is one of the busiest subway stations in New York, with 44,000 daily riders, 98% of whom walk to the station &mdash; where sidewalks are sometimes only five feet wide. <br><br><em>&ldquo;Sidewalk on this block is too narrow for volume of pedestrians, especially given proximity to South Oxford Park.&rdquo; -Stephanie<br><br>&ldquo;There is no bike parking here even though there are tons of stores &mdash; Target, Uniqlo, Sephora, etc!&rdquo; -Alison</em>',
             location: {
-                center: { lon: -73.97747, lat: 40.68406 },
-                zoom: 19.19,
-                pitch: 0.00,
-                bearing: 30.00
+                center: { lon: -73.97490, lat: 40.68304 },
+                zoom: 17.00,
+                pitch: 39.98,
+                bearing: -34.69
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -57,37 +57,8 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'The majority of residents walk and ride transit',
-            description: 'Atlantic Ave-Barclays Center is one of the busiest subway stations in New York, with 44,000 daily riders, 98% of whom walk to the station — where sidewalks are sometimes only five feet wide. 69% of households within walking distance of Atlantic Avenue do not own a car. ',
-            location: {
-                center: { lon: -73.97490, lat: 40.68304 },
-                zoom: 17.00,
-                pitch: 39.98,
-                bearing: -34.69
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 1,
-                //     duration: 5000
-                // }
-            ],
-            onChapterExit: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 0
-                // }
-            ]
-        },
-        {
-            id: 'slug-style-id',
-            alignment: 'right',
-            hidden: false,
-            title: 'Unsafe design, but a “Vision Zero Priority Area”',
-            description: 'Atlantic Avenue is 117 feet wide. Over 80% of this public space is dedicated to moving or storing vehicles, 18% for pedestrians, 0% for buses, and 0% for cyclists. The avenue’s car and parking lanes stretch 94 feet, which could fit a nine-lane highway.',
+            title: 'Unsafe design, but a "Vision Zero Priority Area"',
+            description: 'Atlantic Avenue is 117 feet wide. Over 80% of this public space is dedicated to moving or storing vehicles, 18% for pedestrians, 0% for buses, and 0% for cyclists. The avenue&rsquo;s car and parking lanes stretch 94 feet, which could fit a nine-lane highway.<br><br><em>&ldquo;I walk through here everyday and there are a lot of close calls due to speeding. The current median just has trash and broken glass...could be utilized for the public in a way that could discourage speeding.&rdquo; -Isaiah<br><br>&ldquo;With six travel lanes, two parking lanes, one turning lane, and a very narrow median on the east mean there is often not enough time to cross safely&rdquo; -David H</em>',
             location: {
                 center: { lon: -73.96928, lat: 40.68215 },
                 zoom: 19.53,
@@ -113,15 +84,15 @@ var config = {
         },
         {
             id: 'slug-style-id',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'Car-centric infrastructure leads to negative externalities',
-            description: 'Asthma hospitalizations in this area are 2x higher than the citywide average, due to disproportionate exposure to noise, particulate matter, and emissions from engines. The lack of permeable surfaces led to 12+ inches of flooding reported during Hurricane Ida. The community boards that represent this area are rated high on the Climate Change Vulnerability Index, due to high surface temperatures and low tree coverage, street cleanliness, and access to green space',
+            description: '<a target="_blank" href="https://a816-dohbesp.nyc.gov/IndicatorPublic/Report/ServerSideReport.aspx?reportid=78&amp;geotypeid=3&amp;geoentityid=203&amp;boroughid=2">Asthma hospitalizations</a> in this area are 2x higher than the citywide average, due to <a target="_blank" href="https://www1.nyc.gov/html/dot/downloads/pdf/smart-truck-management-plan.pdf">disproportionate exposure</a> to noise, particulate matter, and emissions from engines. The lack of permeable surfaces led to 12+ inches of flooding reported <a href="https://experience.arcgis.com/experience/7c260f80c5d44d948d45051d7a2d6d77/page/page_0/?views=view_2" target="_blank" class="scroll-link">during Hurricane Ida</a>. The community boards here rate high on the <a target="_blank" href="https://visualizenyc.net/theme/climate-change/">Climate Change Vulnerability Index</a>, due to high surface temperatures and low <a target="_blank" href="https://tree-map.nycgovparks.org/tree-map/borough/3">tree coverage</a>, <a target="_blank" href="https://communityprofiles.planning.nyc.gov/brooklyn/3">street cleanliness</a>, and <a target="_blank" href="https://communityprofiles.planning.nyc.gov/brooklyn/8">access to green space</a>',
             location: {
-                center: { lon: -73.96660, lat: 40.68157 },
-                zoom: 19.53,
-                pitch: 60.00,
-                bearing: -74.85
+                center: { lon: -73.97253, lat: 40.68255 },
+                zoom: 16.31,
+                pitch: 38.25,
+                bearing: 0.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,

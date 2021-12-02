@@ -10,12 +10,12 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'This is Jerome Avenue, The Bronx',
-            description: 'Atlantic Avenue in Brooklyn is the site of high levels of traffic violence, a problem which is especially bad at high traffic intersections such as Flatbush Avenue, Fort Greene Place, and 4th Avenue. These five-to-six-lane dangerous streets are bordered by narrow sidewalks, and lack any protected bike infrastructure either on the streets or nearby. ',
+            title: 'A huge opportunity for transit',
+            description: 'In 2020, NYC DOT built new bus priority lanes along Edward L. Grant Highway, a welcome transformation for tens of thousands of transit riders who represent nearly half of all roadway users during peak hours. Bus speeds have improved from <a href="http://busturnaround.nyc/routes/bx35/" target="_blank">5 mph</a>, yet more can be done - especially for the 78% of households in this neighborhood without cars and 76% who take public transit to work.<br><br><em>&ldquo;Buses are faster with the new bus lane&hellip; but lots of double parking, blocks buses and bikes&rdquo; -Miguel</em>',
             location: {
-                center: { lon: -73.97253, lat: 40.68255 },
-                zoom: 16.31,
-                pitch: 38.25,
+                center: { lon: -73.92237, lat: 40.83611 },
+                zoom: 16.00,
+                pitch: 0.00,
                 bearing: 0.00
             },
             mapAnimation: 'flyTo',
@@ -39,13 +39,13 @@ var config = {
             id: 'other-identifier',
             alignment: 'right',
             hidden: false,
-            title: 'In the top 20% of most dangerous intersections in the city',
-            description: 'In the last 5 years, there have been 75 reported injuries at the intersection of Flatbush and Atlantic Avenue, with 12 fatal crashes in 2021 alone.',
+            title: 'Expanding public space improvements',
+            description: 'The pedestrian plaza created by closing the Cromwell Avenue slip lane offers more space for people, and the community would like to see similar treatments across the rest of the intersection. Unaddressed issues include trucks stopping to make deliveries in the plaza, cars blocking pedestrians and sidewalks, and cyclists feeling unsafe while crossing.<br><br><em>&ldquo;Cars do not yield to pedestrians. Visibility is low - lots of cars stuck in the crosswalk trying to beat the light. Makes crossing the street difficult.&rdquo; -Lucia D</em>',
             location: {
-                center: { lon: -73.97747, lat: 40.68406 },
-                zoom: 19.19,
-                pitch: 0.00,
-                bearing: 30.00
+                center: { lon: -73.92237, lat: 40.83611 },
+                zoom: 18.00,
+                pitch: 60.00,
+                bearing: 15.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -57,71 +57,13 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'The majority of residents walk and ride transit',
-            description: 'Atlantic Ave-Barclays Center is one of the busiest subway stations in New York, with 44,000 daily riders, 98% of whom walk to the station — where sidewalks are sometimes only five feet wide. 69% of households within walking distance of Atlantic Avenue do not own a car. ',
+            title: 'Designing for seniors and children, our most vulnerable street users',
+            description: 'This site is a Vision Zero and a Safe Streets for Seniors priority area, meaning traffic violence is higher than citywide and especially affects a large population of older New Yorkers. With high levels of PM2.5, a pollutant from cars, hospitalizations of childhood asthma are <a target="_blank" href="https://a816-dohbesp.nyc.gov/IndicatorPublic/Report/ServerSideReport.aspx?reportid=78&amp;geotypeid=3&amp;geoentityid=106&amp;boroughid=1">three times higher</a> and adult hospitalizations four times higher than the citywide average.<br><br><em>&ldquo;Kids cross here [at 167th] from the nearby school. Too many turning cars its unsafe for kids to cross safely&rdquo; -Brother &amp; Sister<br><br>&ldquo;Feels okay to cross intersections but you have to rush - harder for seniors&rdquo; -Frank</em>',
             location: {
-                center: { lon: -73.97490, lat: 40.68304 },
-                zoom: 17.00,
-                pitch: 39.98,
-                bearing: -34.69
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 1,
-                //     duration: 5000
-                // }
-            ],
-            onChapterExit: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 0
-                // }
-            ]
-        },
-        {
-            id: 'slug-style-id',
-            alignment: 'right',
-            hidden: false,
-            title: 'Unsafe design, but a “Vision Zero Priority Area”',
-            description: 'Atlantic Avenue is 117 feet wide. Over 80% of this public space is dedicated to moving or storing vehicles, 18% for pedestrians, 0% for buses, and 0% for cyclists. The avenue’s car and parking lanes stretch 94 feet, which could fit a nine-lane highway.',
-            location: {
-                center: { lon: -73.96928, lat: 40.68215 },
-                zoom: 19.53,
+                center: { lon: -73.92237, lat: 40.83611 },
+                zoom: 22.00,
                 pitch: 60.00,
-                bearing: -74.85
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 1,
-                //     duration: 5000
-                // }
-            ],
-            onChapterExit: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 0
-                // }
-            ]
-        },
-        {
-            id: 'slug-style-id',
-            alignment: 'left',
-            hidden: false,
-            title: 'Car-centric infrastructure leads to negative externalities',
-            description: 'Asthma hospitalizations in this area are 2x higher than the citywide average, due to disproportionate exposure to noise, particulate matter, and emissions from engines. The lack of permeable surfaces led to 12+ inches of flooding reported during Hurricane Ida. The community boards that represent this area are rated high on the Climate Change Vulnerability Index, due to high surface temperatures and low tree coverage, street cleanliness, and access to green space',
-            location: {
-                center: { lon: -73.96660, lat: 40.68157 },
-                zoom: 19.53,
-                pitch: 60.00,
-                bearing: -74.85
+                bearing: -42.22
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,

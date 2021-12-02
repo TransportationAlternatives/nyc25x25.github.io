@@ -10,12 +10,12 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'This is Northern Boulevard, Queens',
-            description: 'Atlantic Avenue in Brooklyn is the site of high levels of traffic violence, a problem which is especially bad at high traffic intersections such as Flatbush Avenue, Fort Greene Place, and 4th Avenue. These five-to-six-lane dangerous streets are bordered by narrow sidewalks, and lack any protected bike infrastructure either on the streets or nearby. ',
+            title: 'Prioritize vulnerable pedestrians at points of crossing',
+            description: 'The area is home to large populations of people of color and people living in poverty, with walk-to-work rates twice as high as in the rest of the city and two-thirds of households car-free.<br><br><em>&ldquo;Lots of teenagers cross the street here to reach the high schools. Many close calls&rdquo; -Lorraine<br><br>&ldquo;At a minimum, crosswalks need to be widened and straightened to be perpendicular to Northern Blvd, so that pedestrians have the option to cross the shortest possible distance. Sidewalk bumpouts should be built into parking lanes in order to further shorten crossings, as well as increasing pedestrian visibility to drivers.&rdquo; -Eric</em>',
             location: {
-                center: { lon: -73.97253, lat: 40.68255 },
-                zoom: 16.31,
-                pitch: 38.25,
+                center: { lon: -73.82807, lat: 40.76396 },
+                zoom: 17.32,
+                pitch: 0.00,
                 bearing: 0.00
             },
             mapAnimation: 'flyTo',
@@ -39,13 +39,13 @@ var config = {
             id: 'other-identifier',
             alignment: 'right',
             hidden: false,
-            title: 'In the top 20% of most dangerous intersections in the city',
-            description: 'In the last 5 years, there have been 75 reported injuries at the intersection of Flatbush and Atlantic Avenue, with 12 fatal crashes in 2021 alone.',
+            title: 'A center-running mall is space for people, not parking',
+            description: 'Flushing Memorial sits between the two directions of Northern Boulevard and has a lot of potential to be a beautiful median - but is currently flanked by a confusing parking lane which encourages conflicts with drivers.<br><br><em>&ldquo;There should not be parking alongside the mall - it is too unsafe and slows down traffic in the left lane (which is the fast lane). Take that space and widen the mall and add protected bike lanes.&rdquo; -Joby<br><br>&ldquo;Let us get rid of the police cars and personal cars from the sidewalk and City park (memorial) in the median&rdquo; -John C</em>',
             location: {
-                center: { lon: -73.97747, lat: 40.68406 },
-                zoom: 19.19,
-                pitch: 0.00,
-                bearing: 30.00
+                center: { lon: -73.82860, lat: 40.76392 },
+                zoom: 18.79,
+                pitch: 60.00,
+                bearing: 45.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -57,71 +57,13 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'The majority of residents walk and ride transit',
-            description: 'Atlantic Ave-Barclays Center is one of the busiest subway stations in New York, with 44,000 daily riders, 98% of whom walk to the station — where sidewalks are sometimes only five feet wide. 69% of households within walking distance of Atlantic Avenue do not own a car. ',
+            title: 'A boulevard, not a freeway',
+            description: 'With the <a href="https://www1.nyc.gov/html/dot/downloads/pdf/smart-truck-management-plan.pdf" target="_blank">fifth-highest truck volumes</a> of any major truck route in the city, it&rsquo;s no wonder that Northern Boulevard feels like a ground-level freeway.<br><br><em>&ldquo;Northern is basically a ground-level freeway. It feels especially hostile to cyclists and pedestrians. Why not make a dedicated bus lane on Northern to cut down on auto traffic. And how about implementing a protected intersection design?&rdquo; -Ben T</em>',
             location: {
-                center: { lon: -73.97490, lat: 40.68304 },
-                zoom: 17.00,
-                pitch: 39.98,
-                bearing: -34.69
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 1,
-                //     duration: 5000
-                // }
-            ],
-            onChapterExit: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 0
-                // }
-            ]
-        },
-        {
-            id: 'slug-style-id',
-            alignment: 'right',
-            hidden: false,
-            title: 'Unsafe design, but a “Vision Zero Priority Area”',
-            description: 'Atlantic Avenue is 117 feet wide. Over 80% of this public space is dedicated to moving or storing vehicles, 18% for pedestrians, 0% for buses, and 0% for cyclists. The avenue’s car and parking lanes stretch 94 feet, which could fit a nine-lane highway.',
-            location: {
-                center: { lon: -73.96928, lat: 40.68215 },
-                zoom: 19.53,
-                pitch: 60.00,
-                bearing: -74.85
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 1,
-                //     duration: 5000
-                // }
-            ],
-            onChapterExit: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 0
-                // }
-            ]
-        },
-        {
-            id: 'slug-style-id',
-            alignment: 'left',
-            hidden: false,
-            title: 'Car-centric infrastructure leads to negative externalities',
-            description: 'Asthma hospitalizations in this area are 2x higher than the citywide average, due to disproportionate exposure to noise, particulate matter, and emissions from engines. The lack of permeable surfaces led to 12+ inches of flooding reported during Hurricane Ida. The community boards that represent this area are rated high on the Climate Change Vulnerability Index, due to high surface temperatures and low tree coverage, street cleanliness, and access to green space',
-            location: {
-                center: { lon: -73.96660, lat: 40.68157 },
-                zoom: 19.53,
-                pitch: 60.00,
-                bearing: -74.85
+                center: { lon: -73.82814, lat: 40.76395 },
+                zoom: 19.97,
+                pitch: 0.00,
+                bearing: -15.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,

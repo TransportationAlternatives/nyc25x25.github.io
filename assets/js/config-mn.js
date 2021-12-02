@@ -10,13 +10,13 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'This is 125th Street, Manhattan',
-            description: 'Atlantic Avenue in Brooklyn is the site of high levels of traffic violence, a problem which is especially bad at high traffic intersections such as Flatbush Avenue, Fort Greene Place, and 4th Avenue. These five-to-six-lane dangerous streets are bordered by narrow sidewalks, and lack any protected bike infrastructure either on the streets or nearby. ',
+            title: 'A multimodal cross-town corridor, from river to river',
+            description: 'People want to be on 125th street and use many modes to get there. With retail stores, restaurants, subway stations spanning nearly the width of Manhattan, it&rsquo;s a true backbone in a neighborhood with 79 nursing homes, hospitals, childcare centers, and schools. 79% of households within walking distance of 125th do not own a car, and 71% commute by bike or public transit.<br><br><em>&ldquo;Despite unsafe conditions, W125th street is a key bike corridor between East and Central Harlem and the Hudson River Greenway. There are no alternatives because of geography (Morningside Park to the south and St Nicholas Park to the north) and street design (W126th street is a one way street). We need crosstown protected bike lanes providing a safe corridor from the East River to the Hudson River on 125th street or a street next to it (e.g. 126th street).&rdquo; -Erik M</em>',
             location: {
-                center: { lon: -73.97253, lat: 40.68255 },
-                zoom: 16.31,
-                pitch: 38.25,
-                bearing: 0.00
+                center: { lon: -73.94505, lat: 40.80874 },
+                zoom: 14.46,
+                pitch: 0.00,
+                bearing: 30.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -39,11 +39,11 @@ var config = {
             id: 'other-identifier',
             alignment: 'right',
             hidden: false,
-            title: 'In the top 20% of most dangerous intersections in the city',
-            description: 'In the last 5 years, there have been 75 reported injuries at the intersection of Flatbush and Atlantic Avenue, with 12 fatal crashes in 2021 alone.',
+            title: 'Buses are blocked, despite a bus-only lane',
+            description: 'Of the 60 public comments we received for 125th Street, nearly one-third mentioned that despite a dedicated bus lane, transit service is frustratingly unreliable due to cars and trucks double parking and violating the lane. This Community Board also ranks last among bus speed and reliability out of all 59 CBs in the city.<br><br><em>&ldquo;This bus lane is always blocked and becomes useless as busses have to merge into traffic. I sat on the M60 for an hour just to make it from Amsterdam to the MNR station.&rdquo; -Anonymous</em>',
             location: {
-                center: { lon: -73.97747, lat: 40.68406 },
-                zoom: 19.19,
+                center: { lon: -73.94554, lat: 40.80773 },
+                zoom: 18.46,
                 pitch: 0.00,
                 bearing: 30.00
             },
@@ -57,71 +57,13 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
-            title: 'The majority of residents walk and ride transit',
-            description: 'Atlantic Ave-Barclays Center is one of the busiest subway stations in New York, with 44,000 daily riders, 98% of whom walk to the station — where sidewalks are sometimes only five feet wide. 69% of households within walking distance of Atlantic Avenue do not own a car. ',
+            title: 'Tree cover as a strategy for increasing equity',
+            description: 'The spatial inequity of 125th Street also affects street trees, which live in <a href="https://www.google.com/maps/place/5th+Ave+%26+W+125th+St,+New+York,+NY+10027/@40.8075161,-73.9449288,3a,75y,203.47h,75.27t/data=!3m6!1e1!3m4!1s68qqKegowpNmxSGNCQ_K3Q!2e0!7i16384!8i8192!4m5!3m4!1s0x89c2f60c8401b2df:0x4e6ed18741df6677!8m2!3d40.8064194!4d-73.9422689" target="_blank">notably small tree pits</a> along this stretch, resulting in a lower survival rate and smaller canopies, less effective at cooling the air. Tree coverage is as low as 10 percent of open space, a third of what it is in the nearby Upper West Side.',
             location: {
-                center: { lon: -73.97490, lat: 40.68304 },
-                zoom: 17.00,
-                pitch: 39.98,
-                bearing: -34.69
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 1,
-                //     duration: 5000
-                // }
-            ],
-            onChapterExit: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 0
-                // }
-            ]
-        },
-        {
-            id: 'slug-style-id',
-            alignment: 'right',
-            hidden: false,
-            title: 'Unsafe design, but a “Vision Zero Priority Area”',
-            description: 'Atlantic Avenue is 117 feet wide. Over 80% of this public space is dedicated to moving or storing vehicles, 18% for pedestrians, 0% for buses, and 0% for cyclists. The avenue’s car and parking lanes stretch 94 feet, which could fit a nine-lane highway.',
-            location: {
-                center: { lon: -73.96928, lat: 40.68215 },
-                zoom: 19.53,
+                center: { lon: -73.93747, lat: 40.80433 },
+                zoom: 20.09,
                 pitch: 60.00,
-                bearing: -74.85
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 1,
-                //     duration: 5000
-                // }
-            ],
-            onChapterExit: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 0
-                // }
-            ]
-        },
-        {
-            id: 'slug-style-id',
-            alignment: 'left',
-            hidden: false,
-            title: 'Car-centric infrastructure leads to negative externalities',
-            description: 'Asthma hospitalizations in this area are 2x higher than the citywide average, due to disproportionate exposure to noise, particulate matter, and emissions from engines. The lack of permeable surfaces led to 12+ inches of flooding reported during Hurricane Ida. The community boards that represent this area are rated high on the Climate Change Vulnerability Index, due to high surface temperatures and low tree coverage, street cleanliness, and access to green space',
-            location: {
-                center: { lon: -73.96660, lat: 40.68157 },
-                zoom: 19.53,
-                pitch: 60.00,
-                bearing: -74.85
+                bearing: 30.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
