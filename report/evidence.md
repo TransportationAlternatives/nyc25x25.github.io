@@ -106,7 +106,7 @@ A city that is less dominated by cars will also have positive impacts on New Yor
 
 <span id="safety"></span>
 
-**PUBLIC SAFETY BENEFITS**
+### PUBLIC SAFETY BENEFITS
 
 New York City is facing an epidemic of traffic violence. Nearly one third of all New Yorkers have been in a traffic crash, and [70 percent of New Yorkers](https://www.transalt.org/press-releases/new-poll-reveals-30-percent-of-new-yorkers-have-been-injured-in-a-traffic-crash-70-percent-know-someone-who-has-been-injured-or-killed-in-a-traffic-crash) know someone who has been injured or killed in a crash. These numbers increase for Black New Yorkers, New Yorkers over 50 years old, New York City households that make under $50,000, and residents of Staten Island. Car crashes seriously injure or kill a New Yorker every two hours. Being struck by a car is the leading cause of injury-related death for [New York City children under 14](https://www1.nyc.gov/content/visionzero/pages/), and the [second leading cause of injury-related death for seniors](https://www1.nyc.gov/content/visionzero/pages/). Around 2,500 New Yorkers are seriously injured in traffic crashes every year. Every year, more than half of those killed are people walking and biking, and 50 percent of those who die are killed on only seven percent of streets. 
 
