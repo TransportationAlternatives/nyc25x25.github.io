@@ -16,6 +16,16 @@ p.nyc-map-label {
 	font-family: 'Montserrat', system-ui, sans-serif;
 }
 
+form label {
+	font-family: 'Montserrat', system-ui, sans-serif;
+	font-size: 18px;
+}
+
+form input {
+	font-family: 'Montserrat', system-ui, sans-serif;
+	font-size: 18px;
+}
+
 .nav-link {
 	text-transform: uppercase;
 	font-family: 'Montserrat', system-ui, sans-serif;
@@ -67,6 +77,11 @@ p.nyc-map-label {
 }
 
 .btn-primary:hover {
+	background-color: #9D3C15;
+	border-color: #9D3C15;
+}
+
+.btn-primary:active {
 	background-color: #9D3C15;
 	border-color: #9D3C15;
 }
@@ -248,6 +263,14 @@ img:not([src]) {
 
 .light a {
 	color: #f15d22;
+}
+
+.maplink {
+	text-decoration: underline;
+}
+
+.maplink:hover {
+	text-decoration: none;
 }
 
 .light a:hover {
