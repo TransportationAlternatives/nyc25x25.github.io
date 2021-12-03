@@ -36,33 +36,15 @@ var config = {
             ]
         },
         {
-            id: 'other-identifier',
-            alignment: 'right',
-            hidden: false,
-            title: 'Buses are blocked, despite a bus-only lane',
-            description: 'Of the 60 public comments we received for 125th Street, nearly one-third mentioned that despite a dedicated bus lane, transit service is frustratingly unreliable due to cars and trucks double parking and violating the lane. This Community Board also ranks last among bus speed and reliability out of all 59 CBs in the city.<br><br><em>&ldquo;This bus lane is always blocked and becomes useless as busses have to merge into traffic. I sat on the M60 for an hour just to make it from Amsterdam to the MNR station.&rdquo; -Anonymous</em>',
-            location: {
-                center: { lon: -73.94554, lat: 40.80773 },
-                zoom: 18.46,
-                pitch: 0.00,
-                bearing: 30.00
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
             id: 'slug-style-id',
             alignment: 'left',
             hidden: false,
             title: 'Tree cover as a strategy for increasing equity',
             description: 'The spatial inequity of 125th Street also affects street trees, which live in <a href="https://www.google.com/maps/place/5th+Ave+%26+W+125th+St,+New+York,+NY+10027/@40.8075161,-73.9449288,3a,75y,203.47h,75.27t/data=!3m6!1e1!3m4!1s68qqKegowpNmxSGNCQ_K3Q!2e0!7i16384!8i8192!4m5!3m4!1s0x89c2f60c8401b2df:0x4e6ed18741df6677!8m2!3d40.8064194!4d-73.9422689" target="_blank">notably small tree pits</a> along this stretch, resulting in a lower survival rate and smaller canopies, less effective at cooling the air. Tree coverage is as low as 10 percent of open space, a third of what it is in the nearby Upper West Side.',
             location: {
-                center: { lon: -73.93747, lat: 40.80433 },
-                zoom: 20.09,
-                pitch: 60.00,
+                center: { lon: -73.94554, lat: 40.80773 },
+                zoom: 16.27,
+                pitch: 0.00,
                 bearing: 30.00
             },
             mapAnimation: 'flyTo',
@@ -81,6 +63,24 @@ var config = {
                 //     opacity: 0
                 // }
             ]
+        },
+        {
+            id: 'other-identifier',
+            alignment: 'right',
+            hidden: false,
+            title: 'Buses are blocked, despite a bus-only lane',
+            description: 'Of the 60 public comments we received for 125th Street, nearly one-third mentioned that despite a dedicated bus lane, transit service is frustratingly unreliable due to cars and trucks double parking and violating the lane. This Community Board also ranks last among bus speed and reliability out of all 59 CBs in the city.<br><br><em>&ldquo;This bus lane is always blocked and becomes useless as busses have to merge into traffic. I sat on the M60 for an hour just to make it from Amsterdam to the MNR station.&rdquo; -Anonymous</em>',
+            location: {
+                center: { lon: -73.94554, lat: 40.80773 },
+                zoom: 18.46,
+                pitch: 0.00,
+                bearing: 30.00
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
         }
     ]
 };

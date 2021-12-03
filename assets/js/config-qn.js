@@ -60,10 +60,10 @@ var config = {
             title: 'A boulevard, not a freeway',
             description: 'With the <a href="https://www1.nyc.gov/html/dot/downloads/pdf/smart-truck-management-plan.pdf" target="_blank">fifth-highest truck volumes</a> of any major truck route in the city, it&rsquo;s no wonder that Northern Boulevard feels like a ground-level freeway.<br><br><em>&ldquo;Northern is basically a ground-level freeway. It feels especially hostile to cyclists and pedestrians. Why not make a dedicated bus lane on Northern to cut down on auto traffic. And how about implementing a protected intersection design?&rdquo; -Ben T</em>',
             location: {
-                center: { lon: -73.82814, lat: 40.76395 },
-                zoom: 19.97,
-                pitch: 0.00,
-                bearing: -15.00
+                center: { lon: -73.82820, lat: 40.76388 },
+                zoom: 18.31,
+                pitch: 60.00,
+                bearing: 74.92
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,

@@ -60,10 +60,10 @@ var config = {
             title: 'Designing for seniors and children, our most vulnerable street users',
             description: 'This site is a Vision Zero and a Safe Streets for Seniors priority area, meaning traffic violence is higher than citywide and especially affects a large population of older New Yorkers. With high levels of PM2.5, a pollutant from cars, hospitalizations of childhood asthma are <a target="_blank" href="https://a816-dohbesp.nyc.gov/IndicatorPublic/Report/ServerSideReport.aspx?reportid=78&amp;geotypeid=3&amp;geoentityid=106&amp;boroughid=1">three times higher</a> and adult hospitalizations four times higher than the citywide average.<br><br><em>&ldquo;Kids cross here [at 167th] from the nearby school. Too many turning cars its unsafe for kids to cross safely&rdquo; -Brother &amp; Sister<br><br>&ldquo;Feels okay to cross intersections but you have to rush - harder for seniors&rdquo; -Frank</em>',
             location: {
-                center: { lon: -73.92237, lat: 40.83611 },
-                zoom: 22.00,
+                center: { lon: -73.92214, lat: 40.83615 },
+                zoom: 19.34,
                 pitch: 60.00,
-                bearing: -42.22
+                bearing: 30.00
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
