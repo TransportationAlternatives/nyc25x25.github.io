@@ -295,3 +295,19 @@ h3 a:hover {
 	color: #f15d22;
 	text-decoration: none;
 }
+
+@media (max-width: 768px) {
+	.proposaltext {
+		padding-left: 12px;
+		padding-right: 12px;
+}
+
+@media (min-width: 768px) {
+	.proposaltext {
+		
+	}
+}
+
+.orangebg {
+	background-color: #f15d22;
+}
